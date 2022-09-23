@@ -1,7 +1,7 @@
 package com.rcb.constants;
 
 /**
- * Iconstant consist constant values used within the framework.
+ * Iconstant consist constant values.
  *
  * September 24, 2022
  * @author Sanjay Kumar Gond

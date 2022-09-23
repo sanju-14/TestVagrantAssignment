@@ -5,7 +5,7 @@
     <classes>
       <class name="com.rcb.scripts.RcbTest">
         <methods>
-          <include name="verifyForeignPlayerCountTest" invocation-numbers="0"/>
+          <include name="colorreports"/>
         </methods>
       </class> <!-- com.rcb.scripts.RcbTest -->
     </classes>

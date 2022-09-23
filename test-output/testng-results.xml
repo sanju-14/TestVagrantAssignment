@@ -8,16 +8,16 @@
       <![CDATA[verifyWicketKeeperCountTest is passed]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-09-23T07:58:48Z" name="Default suite" finished-at="2022-09-23T07:58:49Z" duration-ms="304">
+  <suite started-at="2022-09-23T13:00:26Z" name="Default suite" finished-at="2022-09-23T13:00:27Z" duration-ms="259">
     <groups>
     </groups>
-    <test started-at="2022-09-23T07:58:48Z" name="Default test" finished-at="2022-09-23T07:58:49Z" duration-ms="304">
+    <test started-at="2022-09-23T13:00:26Z" name="Default test" finished-at="2022-09-23T13:00:27Z" duration-ms="259">
       <class name="com.rcb.scripts.RcbTest">
-        <test-method signature="colorreports()[pri:0, instance:com.rcb.scripts.RcbTest@f99f5e0]" started-at="2022-09-23T13:28:48Z" name="colorreports" finished-at="2022-09-23T13:28:49Z" duration-ms="287" status="PASS">
+        <test-method signature="colorreports()[pri:0, instance:com.rcb.scripts.RcbTest@6cb6decd]" started-at="2022-09-23T18:30:26Z" name="colorreports" finished-at="2022-09-23T18:30:27Z" duration-ms="239" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- colorreports -->
-        <test-method signature="verifyForeignPlayerCountTest(java.lang.reflect.Method)[pri:0, instance:com.rcb.scripts.RcbTest@f99f5e0]" started-at="2022-09-23T13:28:49Z" name="verifyForeignPlayerCountTest" description="Validate that team has only 4 foreign players in playing 11" finished-at="2022-09-23T13:28:49Z" duration-ms="7" status="PASS">
+        <test-method signature="verifyForeignPlayerCountTest(java.lang.reflect.Method)[pri:0, instance:com.rcb.scripts.RcbTest@6cb6decd]" started-at="2022-09-23T18:30:27Z" name="verifyForeignPlayerCountTest" description="Validate that team has only 4 foreign players in playing 11" finished-at="2022-09-23T18:30:27Z" duration-ms="9" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -31,7 +31,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- verifyForeignPlayerCountTest -->
-        <test-method signature="verifyWicketKeeperCountTest(java.lang.reflect.Method)[pri:0, instance:com.rcb.scripts.RcbTest@f99f5e0]" started-at="2022-09-23T13:28:49Z" name="verifyWicketKeeperCountTest" description="Validate that team has at least one wicket-keeper in playing 11" finished-at="2022-09-23T13:28:49Z" duration-ms="1" status="PASS">
+        <test-method signature="verifyWicketKeeperCountTest(java.lang.reflect.Method)[pri:0, instance:com.rcb.scripts.RcbTest@6cb6decd]" started-at="2022-09-23T18:30:27Z" name="verifyWicketKeeperCountTest" description="Validate that team has at least one wicket-keeper in playing 11" finished-at="2022-09-23T18:30:27Z" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>

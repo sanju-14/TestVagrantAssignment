@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 import com.rcb.constants.Iconstant;
-import com.rcb.exceptions.CustomExceptions;
+import com.rcb.exceptions.CustomException;
 import com.rcb.teamdetail.TeamList;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -52,11 +52,11 @@ public class Generic {
 	public void checkTeamSize() {
 
 		if (getPlayerList().size() > 11) {
-			throw new CustomExceptions(
+			throw new CustomException(
 					"Your Team Size is more than 11 Players so Please provide correct team size of 11 Player");
 
 		} else if (getPlayerList().size() < 11) {
-			throw new CustomExceptions(
+			throw new CustomException(
 					"Your Team Size is less than 11 Players so Please provide correct team size of 11 Player");
 		}
 
